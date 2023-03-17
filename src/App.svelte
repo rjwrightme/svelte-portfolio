@@ -4,5 +4,5 @@
 </script>
 
 <main>
-  <h1>RJ Wright Portfolio</h1>
+  <h1 class="text-3xl font-bold text-center">RJ Wright Portfolio</h1>
 </main>
