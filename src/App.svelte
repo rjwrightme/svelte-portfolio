@@ -1,8 +1,8 @@
 <script>
-  import svelteLogo from "./assets/svelte.svg";
-  import Counter from "./lib/Counter.svelte";
+  import rjLogo from "./assets/logo-main.svg";
 </script>
 
 <main>
-  <h1 class="text-3xl font-bold text-center">RJ Wright Portfolio</h1>
+  <img src={rjLogo} alt="RJ Logo" class="w-10" />
+  <h1 class="text-3xl font-bold text-center text-white">RJ Wright Portfolio</h1>
 </main>
