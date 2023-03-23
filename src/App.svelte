@@ -9,4 +9,10 @@
       Developer by Design.
     </h1>
   </div>
+  <div>
+    <h2>About Me</h2>
+    <h2>Skills</h2>
+    <h2>Work History</h2>
+    <h2>Projects</h2>
+  </div>
 </main>
